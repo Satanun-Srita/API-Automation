@@ -1,5 +1,5 @@
 # 🚀 ทดสอบระบบ FutureSkill ด้วย API Automation
-#### Class Project: การออกแบบและพัฒนาระบบทดสอบอัตโนมัติ (Automated API Testing) สำหรับแพลตฟอร์ม FutureSkill โดยครอบคลุมการทดสอบเบื้องต้น ดังนี้
+Class Project: การออกแบบและพัฒนาระบบทดสอบอัตโนมัติ (Automated API Testing) สำหรับแพลตฟอร์ม FutureSkill โดยครอบคลุมการทดสอบเบื้องต้น ดังนี้
 
 * ตรวจสอบเบื้องต้น (Smoke Check)
 * ตรวจสอบระบบจัดการสิทธิ์การเข้าถึง (Authentication)
